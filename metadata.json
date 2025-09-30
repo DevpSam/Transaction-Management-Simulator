@@ -1,0 +1,5 @@
+{
+  "name": "Transaction Management Simulator",
+  "description": "An interactive web application to learn and visualize database transaction states, ACID properties, concurrency issues like Dirty Reads, and data control language commands like GRANT and REVOKE.",
+  "requestFramePermissions": []
+}

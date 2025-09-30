@@ -1,0 +1,9 @@
+
+export enum TransactionState {
+  IDLE = "IDLE",
+  ACTIVE = "ACTIVE",
+  PARTIALLY_COMMITTED = "PARTIALLY_COMMITTED",
+  COMMITTED = "COMMITTED",
+  FAILED = "FAILED",
+  ABORTED = "ABORTED"
+}
